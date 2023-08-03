@@ -109,6 +109,7 @@ Get instance of the config provider. The instance is a `Viper` object, configura
 
 ## Todo
 
+* Add test cases
 * Support `etcd` as remote config source
 * Support `consul` as remote config source
 * Support `firestore` as remote config source
