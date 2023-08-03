@@ -105,3 +105,10 @@ Instantiate a config provider
 ### `provider.Instance()`
 
 Get instance of the config provider. The instance is a `Viper` object, configuration content reading methods reference [https://github.com/spf13/viper](https://github.com/spf13/viper)
+
+
+## Todo
+
+* Support `etcd` as remote config source
+* Support `consul` as remote config source
+* Support `firestore` as remote config source
